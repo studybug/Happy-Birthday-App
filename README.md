@@ -4,7 +4,7 @@ Birthday Card Sample App
 
 Sample app that displays a birthday card. Used in the Udacity Android for Beginners course. Here are pictures of what was created:
 
-![Happy Birthday](Happy Birthday.png)
+![Happy Birthday](Happy-Birthday-App/Happy Birthday.png)
 
 Pre-requisites
 --------------
